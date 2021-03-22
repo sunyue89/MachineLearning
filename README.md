@@ -1,3 +1,12 @@
+These repositories are updated upon the kindest offer from original author dibgerge who created the platforms using python to learn the Machine Learning course by Andrew Ng at Coursear, by providing Python programming solutions for each week's homework to the course.
+
+Original link
+https://github.com/dibgerge/ml-coursera-python-assignments
+
+Yue Sun 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
